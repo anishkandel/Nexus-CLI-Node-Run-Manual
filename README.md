@@ -28,8 +28,16 @@ exec "$SHELL"`
 # Step 5: Install Nexus CLI
 `curl https://cli.nexus.xyz/ | sh`
 
+
 Nexus CLI Error & Fix
 
 If you're facing a byte error while running Nexus CLI, try this fix:
 
 `sudo fallocate -l 10G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && echo`
+
+
+
+Twitter (x) 
+https://x.com/KadyBit/status/1892219364176511432
+
+follow for more updates
